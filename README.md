@@ -1,5 +1,3 @@
-# Criar-uma-m-quina-virtual-do-Windows-no-portal-Azure
-Este repositório tem como objetivo de consolidar conhecimentos em máquinas virtuais da Azure.
 Criar uma Máquina Virtual do Windows no Portal do Azure
 
 Passo 1: Entrar no Azure
